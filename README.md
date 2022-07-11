@@ -1,5 +1,7 @@
 ## demo app - developing with Docker
 
+reference: https://gitlab.com/nanuchi/techworld-js-docker-demo-app/-/blob/master/README.md
+
 This demo app shows a simple user profile app set up using 
 - index.html with pure js and css styles
 - nodejs backend with express module
